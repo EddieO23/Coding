@@ -1,0 +1,41 @@
+* {background-color: beige;}
+.menu {
+    width: 800px;
+    margin: auto;
+  }
+  * {
+    font-family: 'Montserrat', sans-serif;
+  }
+  h1{
+    color: orange;
+  }
+  h3{
+    color: red;
+  }
+  h2{
+    color: orange;
+  }
+  .menu p {
+    background-color: orange;
+    color: white;}
+  .menu-sides p{
+    background-color: red;
+    color: blue;
+  }
+  img {
+    border-radius: 20px;
+    
+    
+  }
+  
+.favorites {
+    display: flex;
+    justify-content: space-between;
+  }
+  .icons{
+    display: flex;
+    justify-content: center;
+  }
+  footer p {
+    text-align: center;
+  }
