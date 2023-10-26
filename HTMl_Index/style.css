@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+section h2 {
+    color: green;
+}
+.section-header {
+    color: rgb(128, 0, 128);
+}
